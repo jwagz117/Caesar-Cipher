@@ -13,7 +13,7 @@ See *testPoss.txt* for the output file that contains all the possibilities when 
 The above string is `this is a caesar cipher` with a shift of 12.
 
 
-##Sample output:##
+Sample output:
 
 
 ````
